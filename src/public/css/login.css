@@ -38,6 +38,7 @@ p {
 }
 
 .workcodecamp, .passwordcamp {
+    height: 35px;
     width: 300px;
     border-radius: 20px;
 }
